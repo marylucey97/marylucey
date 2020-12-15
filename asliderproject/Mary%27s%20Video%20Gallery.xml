@@ -1,0 +1,81 @@
+<project>
+  <size>
+    <width>900</width>
+    <height>360</height>
+    <donotcrop>False</donotcrop>
+    <donotstretch>True</donotstretch>
+    <donotcropthumbnail>False</donotcropthumbnail>
+    <transparent>False</transparent>
+    <imagefillcolor>FFFFFF</imagefillcolor>
+  </size>
+  <slidelist>
+    <slide>
+      <type>3</type>
+      <originalimage>C:/xampp/htdocs/MaryLucey/images/SnowWhite.jpg</originalimage>
+      <image>Mary%27s%20Video%20Gallery.xml_files\SnowWhite.jpg</image>
+      <size>202245514</size>
+      <date>2020-10-04 20-14-59</date>
+      <title>Snow_White_and_the_Seven_Dwarfs_2001_(2001)_BluRay_high_(fzmovies.net)_fb20854da6a61bccb27c90bba344effd</title>
+      <description />
+      <button />
+      <buttonstyle>as-btn-blue-medium</buttonstyle>
+      <buttonlink />
+      <buttonlinktarget />
+      <link />
+      <target />
+      <videolist>
+        <video>C:/xampp/htdocs/MaryLucey/videogallery/Movies/Snow_White_and_the_Seven_Dwarfs_2001_(2001)_BluRay_high_(fzmovies.net)_fb20854da6a61bccb27c90bba344effd.mp4</video>
+      </videolist>
+      <openinlightbox>False</openinlightbox>
+      <setlightboxsize>False</setlightboxsize>
+      <lightboxwidth>960</lightboxwidth>
+      <lightboxheight>540</lightboxheight>
+      <currentinlightbox>False</currentinlightbox>
+      <settexteffect>False</settexteffect>
+      <texteffect />
+      <setduration>False</setduration>
+      <duration>5000</duration>
+    </slide>
+    <slide>
+      <type>3</type>
+      <originalimage>C:/xampp/htdocs/MaryLucey/images/pinocchio.jpg</originalimage>
+      <image>Mary%27s%20Video%20Gallery.xml_files\pinocchio.jpg</image>
+      <size>195129452</size>
+      <date>2020-10-04 20-22-22</date>
+      <title>Pinocchio_(1940)_BluRay_high_(fzmovies.net)_9e55d65e76558e4aace37b20ccdbed7b</title>
+      <description />
+      <button />
+      <buttonstyle>as-btn-blue-medium</buttonstyle>
+      <buttonlink />
+      <buttonlinktarget />
+      <link />
+      <target />
+      <videolist>
+        <video>C:/xampp/htdocs/MaryLucey/images/Pinocchio_(1940)_BluRay_high_(fzmovies.net)_9e55d65e76558e4aace37b20ccdbed7b.mp4</video>
+      </videolist>
+      <openinlightbox>False</openinlightbox>
+      <setlightboxsize>False</setlightboxsize>
+      <lightboxwidth>960</lightboxwidth>
+      <lightboxheight>540</lightboxheight>
+      <currentinlightbox>True</currentinlightbox>
+      <settexteffect>False</settexteffect>
+      <texteffect />
+      <setduration>False</setduration>
+      <duration>5000</duration>
+    </slide>
+    <slide>
+      <type>4</type>
+      <originalimage>C:/xampp/htdocs/MaryLucey/images/fantasia.jpg</originalimage>
+      <image>Mary%27s%20Video%20Gallery.xml_files\fantasia.jpg</image>
+      <size>208591</size>
+      <date>2020-11-14 12-17-45</date>
+      <title />
+      <description />
+      <button />
+      <buttonstyle>as-btn-blue-medium</buttonstyle>
+      <buttonlink />
+      <buttonlinktarget />
+      <link />
+      <target />
+      <videolist>
+        <video>
